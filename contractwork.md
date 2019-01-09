@@ -8,7 +8,7 @@ We have thousands of active users and our systems are deployed in some of the la
 
 ### Adding Single Sign On
 
-The ultimate goal of the grant is to lay the foundation for becoming Learning Tools Interoperability compliant. We will begin by adding single sign on features. This requires retooling our user authentication and role provisioning. Once we have LTI compliance every learning management and talent management system will be able to offer our services to their existing customer base.
+The ultimate goal of the grant is to lay the foundation for becoming Learning Tools Interoperability compliant. We will begin by adding single sign on features. This requires retooling our user authentication and role provisioning.  LTI compliance will empower every learning management and talent management system will  to offer our services to their existing customer base. Every state now requires every district to document how they calibrate evaluators. We can provide a turn key solution to any LTI compliant platform.
 
 Once we have have updated our basic architecture (not a small once, we have work to do) we will be adding oAuth integration, either natively or through a third party vendor. 
 
