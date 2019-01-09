@@ -4,7 +4,7 @@ ReVIEW Talent Feedback System is currently seeking bids for a  part time contrac
 
 ReVIEW Talent Feedback System is a comprehensive talent management platform that is used to improve the feedback supervisors provide employers. 
 
-We have thousands of active users and our systems are used by the some of the largest Urban school districts in the Northeast. We provide an entire suite of tools. Our most popular are our video based calibration and collegial calibration tools. Many districts deploy ReVIEW as their full talent system as well. 
+We have thousands of active users and our systems are deployed in some of the largest Urban school districts in the Northeast. We provide an entire suite of tools. Our most popular are our video based calibration and collegial calibration tools. Many districts deploy ReVIEW as their full talent system as well. 
 
 ### Adding Single Sign On
 
