@@ -26,6 +26,12 @@ Greg McVerry runs the show as the product manager. Ambesh Kumar provides our lea
 
 The grant also has money to hire an undergraduate or graduate student worker. This person will work directly with you and Ambesh. After starting the project and determining your needs you will help us to determine the best candidate to support your work.
 
+### How You Will Work
+
+The we we are set up is nobody is really anybody's boss. Greg steers the ship but he's not going to tell the engineer how to keep everything running. Ambesh is looking for someone to run ideas by and institute a peer review before each commit. The best ideas can never come from one person. Ever. 
+
+We pretty much work through Google Apps, Slack and Trello though Greg is always pushing us to move this more on to company properties so capturing our work openly becomes the best kind of content marketing. Reflection and truth sell. 
+
 ### Reach Out
 
 If you are an independent contractor or co-op and would like to reach out to discuss a potential partnership please email greg@reviewtalentfeedback and provide a few examples of what you have done (no resumes please). 
