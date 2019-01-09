@@ -18,7 +18,7 @@ Beyond the user authentication work we also have pathways for you to explore you
 
 You may also be someone skilled at javascript and jQuery. We have a form builder tool very similar to other form makers. We are going to be creating APIs for each type of our form component and then these APIs will be available for our report builder to call. Based on the type of data: numerical, ordinal, percentage, a data visualization component will be added. If you like turning data into pretty pictures on the front end or have a love statistical modeling you can build a nice sandbox.
 
-We have also notice our customers rightfully turning more to reflective portfolio practices rather than simply numerical measures of teacher effectiveness. Therefore we will also be exploring adding the FrancisCMS Ruby blogging gem. Each existing district would be given a dedicated bucket and each user provided a subdomain. We would utilize the single sign on system we are creating. So if you have a passion for improving education through reflective blogging and alternatives assessment we could play and hack together on this project as well.
+We have also noticed our customers rightfully turning more to reflective portfolio practices rather than simply numerical measures of teacher effectiveness. Therefore we will also be exploring adding the FrancisCMS Ruby blogging gem. Each existing district would be given a dedicated bucket and each user provided a subdomain. We would utilize the single sign on system we are creating. So if you have a passion for improving education through reflective blogging and alternatives assessment we could play and hack together on this project as well.
 
 ### Who you will work with
 
