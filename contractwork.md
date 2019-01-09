@@ -28,7 +28,7 @@ The grant also has money to hire an undergraduate or graduate student worker. Th
 
 ### How You Will Work
 
-The we we are set up is nobody is really anybody's boss. Greg steers the ship but he's not going to tell the engineer how to keep everything running. Ambesh is looking for someone to run ideas by and institute a peer review before each commit. The best ideas can never come from one person. Ever. 
+The way we are set up is nobody is really anybody's boss. Greg steers the ship but he's not going to tell the engineer how to keep everything running. Ambesh is looking for someone to run ideas by and institute a peer review before each commit. The best ideas can never come from one person. Ever. 
 
 We pretty much work through Google Apps, Slack and Trello though Greg is always pushing us to move this more on to company properties so capturing our work openly becomes the best kind of content marketing. Reflection and truth sell.
 
