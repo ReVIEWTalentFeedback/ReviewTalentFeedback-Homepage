@@ -2,9 +2,9 @@
 
 ReVIEW is a online rubric system that improves student outcomes by focusing on the feedback teachers deliver.
 
-This summer we are adding Single Sign On with OAuth and API endpoints to all our data structures.
+This summer we are adding Single Sign On with OAuth and API endpoints to all our data structures. This will work in conjuction with a new course builder feature.
 
-Course Builder
+## Course Builder
 As part of this upgrade we are launching a course builder template based on these HTML templates: https://glitch.com/@jgmac1106/indie-web-learning-networks
 
 We will use Kirby, this is a PHP templating engine. Kirby stores data in .txt files reducing the database overhead  but still serves up dynamic content so it is more powerful than a static site generator.
