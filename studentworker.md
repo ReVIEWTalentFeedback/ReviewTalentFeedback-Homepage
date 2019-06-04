@@ -11,7 +11,7 @@ We will use Kirby, this is a PHP templating engine. Kirby stores data in .txt fi
 
 You will also be adding a credentialing platform that includes webmention badges.
 
-Our Development Philosophy
+## Our Development Philosophy
 Writing code is a one time cost. Maintaining it drains you over a lifetime. Both in physical and financial cost. The simpler your data storage system the better your chance of survival.
 
 Simple solutions also lead to sustainable projects. The resiliency of HTML/CSS (and a splash of JavaScript) have lower energy costs and far greater resiliency than many front end frameworks. The world benefits from human readable source code.
